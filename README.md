@@ -2,7 +2,7 @@
 
 A collaborative platform designed to simplify and streamline technical knowledge sharing within teams. KTP integrates data from multiple sources (GitHub, Notion, Slack) and provides intelligent search and Q&A capabilities powered by AI.
 
-## ✨ Features
+##  Features
 
 - **🔍 Intelligent Search**: Semantic search across all your knowledge sources
 - **❓ AI-Powered Q&A**: Ask questions and get intelligent answers with sources
@@ -12,7 +12,7 @@ A collaborative platform designed to simplify and streamline technical knowledge
 - **🎨 Modern UI**: Beautiful Streamlit-based interface
 - **🚀 One-Click Integration**: Integrate all sources with a single click
 
-## 🏗️ Architecture
+##  Architecture
 
 - **Backend**: Flask API with OpenAI embeddings and Pinecone vector database
 - **Frontend**: Streamlit web application
