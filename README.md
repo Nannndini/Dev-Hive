@@ -20,7 +20,7 @@ A collaborative platform designed to simplify and streamline technical knowledge
 - **Database**: Pinecone vector database for semantic search
 - **Integrations**: GitHub API, Notion API, Slack API
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -57,7 +57,7 @@ A collaborative platform designed to simplify and streamline technical knowledge
    - Frontend UI: http://localhost:8501
    - Backend API: http://localhost:5000
 
-## 📋 Environment Variables
+##  Environment Variables
 
 Create a `.env` file in the `server` directory:
 
