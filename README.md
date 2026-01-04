@@ -36,7 +36,7 @@ A collaborative platform designed to simplify and streamline technical knowledge
    git clone <repository-url>
    cd ktp
    ```
-
+   
 2. **Install dependencies**
    ```bash
    pip install -r server/requirements.txt
